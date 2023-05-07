@@ -22,9 +22,9 @@ pip3 install openai
 1. Clone this repository or download the `generate_letter.py` script.
 2. Set the `OPENAI_API_KEY` environment variable to your OpenAI API key:
 
-\```bash
+```bash
 export OPENAI_API_KEY=your_api_key_here
-\```
+```
 
 Replace `your_api_key_here` with your actual API key.
 
